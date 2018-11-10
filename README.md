@@ -20,7 +20,7 @@ be successful in decreasing trac congestion and improving driver safety.
 Another promising control measure in freeway traffic control is the use of Variable Speed Limits (VSLs), overhead signs showing a varying speed limit that changes according to the current road conditions.
 
 ## Goal 
-The goal of this assignment is to compute the values of the speed limits and the ramp
+The goal of this project is to compute the values of the speed limits and the ramp
 metering rates (i.e. the percentage of ramp 
 ow that is allowed to enter) that minimize the
 congestion that appears on a freeway stretch.
